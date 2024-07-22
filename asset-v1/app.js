@@ -1,6 +1,6 @@
 /* 0.5.7 2020-12-27 16:37:09 */
 var app = new function() {
-    this.name = "Mechanic", this.version = "1", this.date = "2020", this.folder = "asset-v1/", this.looptime = 6857, this.bpm = 140, this.totalframe = 452, this.nbpolo = 7, this.nbloopbonus = 8, this.bonusloopA = !0, this.bonusendloopA = !1, this.recmaxloop = 80, this.recminloop = 2, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepolotshirt = "polo-sprite-tshirt.png", this.spritepicto = "game-picto.png", this.colBck = "#000000", this.col0 = "#564BB5", this.col1 = "#4A3FA4", this.col2 = "#362C86", this.col3 = "#332184", this.col4 = "#2C1A67", this.animearray = [{
+    this.name = "Mechanic", this.version = "1", this.date = "2020", this.folder = "asset-v1/", this.looptime = 6857, this.bpm = 140, this.totalframe = 452, this.nbpolo = 8, this.nbloopbonus = 8, this.bonusloopA = !0, this.bonusendloopA = !1, this.recmaxloop = 80, this.recminloop = 2, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepolotshirt = "polo-sprite-tshirt.png", this.spritepicto = "game-picto.png", this.colBck = "#000000", this.col0 = "#564BB5", this.col1 = "#4A3FA4", this.col2 = "#362C86", this.col3 = "#332184", this.col4 = "#2C1A67", this.animearray = [{
         name: "1_pump",
         color: "DF8020",
         uniqsnd: !0
